@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waecuxath.sultemeyer.com/sitemap.xml
